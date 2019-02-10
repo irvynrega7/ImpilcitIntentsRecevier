@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Impilcit Intents Recevier</string>
+    <string name="uri_label" />
 </resources>
